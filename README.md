@@ -26,3 +26,4 @@ Please run the main application using the requirements.txt file and command as:
 streamlit run app.py
 ```
 More number of tools can be added to the tools.py script as needed. 
+#### Note: Please add OPENAI_API_KEY in the gapi.env file
