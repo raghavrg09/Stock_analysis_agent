@@ -16,3 +16,6 @@ As of now, there are only 3 tools:
 - get the ticker symbols
 - fetch and save stock data
 - calculate returns over x number fo days
+
+## App
+App is nothing but a streamlit based application serving as UI to interact with the application using the LLM ReAct agent
