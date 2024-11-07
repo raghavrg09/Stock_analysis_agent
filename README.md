@@ -27,3 +27,7 @@ streamlit run app.py
 ```
 More number of tools can be added to the tools.py script as needed. 
 #### Note: Please add OPENAI_API_KEY in the gapi.env file
+
+## Other important information
+Stock data for the same can be uploaded to S3 bucket if required using the function: _upload_data_to_s3_ under *s3_uploader.py*
+The access keys for the same has to be stored in *aws_secret_keys.env* file
