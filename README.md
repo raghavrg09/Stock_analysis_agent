@@ -19,3 +19,10 @@ As of now, there are only 3 tools:
 
 ## App
 App is nothing but a streamlit based application serving as UI to interact with the application using the LLM ReAct agent
+
+## Workflow
+Please run the main application using the requirements.txt file and command as:
+```
+streamlit run app.py
+```
+More number of tools can be added to the tools.py script as needed. 
